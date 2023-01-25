@@ -1,0 +1,22 @@
+{
+  "urlCompanySelection": "company_select",
+  "urlApprovals": "payment_approvals",
+  "urlPending": "pending_payments",
+  "compNames": [
+    "Plooto Inc.",
+    "Acme Tires Inc.",
+    "Geoff's Big Business",
+    "Acme Corp Inc.",
+    "Companies"
+  ],
+  "tableHeaders": [
+    "Company Name",
+    "Status",
+    "Outstanding Items"
+  ],
+  "Plooto": "Plooto Inc",
+  "verificationText": "Click here to finish company verification steps and unlock the full power of Plooto.",
+  "approvalsHeaderText": "Payment approvals",
+  "pendingPaymentsText": "Payments currently in transit",
+  "contactText": "Cavages"
+}
